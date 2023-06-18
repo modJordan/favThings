@@ -9,3 +9,9 @@ form {
   font-size: 28px;
   text-align: center;
 }
+
+p {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 28px;
+}
